@@ -10,12 +10,12 @@ tags: [Github, Google]
 
 ![](assets/../../assets/img/google-search-console-domain-inpu.png)  
 
-나는 Custom domain을 사용하고 있기 때문에 왼쪽 옵션을 선택했다.
+나는 Custom domain을 사용하고 있기 때문에 왼쪽 옵션을 선택했다.  
 도메인 주소를 입력해준다.
 
 ![](/assets/img/google-search-console-auto-checked.png)
 
-왜인지 정확히는 모르겠지만 나는 자동으로 소유권이 확인되었다
+왜인지 정확히는 모르겠지만 나는 자동으로 소유권이 확인되었다  
 하지만 자동으로 확인이 되지 않더라도 그냥 하라는 대로 DNS 인증 해주면 되는 것 같다.
 
 ---
