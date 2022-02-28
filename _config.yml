@@ -15,7 +15,7 @@ author: owo
 
 navbar-links:
   About Me: "aboutme"
-  # Author's blog: "https://blog.naver.com/"
+  2nd blog: "https://blog.naver.com/owo2727j"
   more:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -86,7 +86,7 @@ url-pretty: "blog.jcy1511.com"
 excerpt_length: 15
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
