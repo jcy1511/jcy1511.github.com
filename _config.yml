@@ -15,7 +15,7 @@ author: owo
 
 navbar-links:
   About Me: "aboutme"
-  2nd blog: "https://blog.naver.com/owo2727j"
+  # 2nd blog: "https://blog.naver.com/owo2727j"
   more:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
