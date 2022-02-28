@@ -11,9 +11,10 @@ tags: [Github, Google]
 ![](/assets/img/add-sitemap.png)|![](/assets/img/add-robots.png)
 
 이렇게 블로그 파일의 root 위치, 즉 가장 바깥 폴더(_config.yml 있는 곳 맞음)에 sitemap.xml, robots.xml을 만들어준다.  
-그리고 각각의 파일들에 아래의 내용을 써주면 됩니다.
+그리고 각각의 파일들에 아래의 내용을 써주면 된다.
 
 ## sitemap.xml  
+{% raw %}
 ``` html
 ---
 layout: null
@@ -48,7 +49,16 @@ layout: null
     {% endfor %}
 </urlset>
 ```
+{% endraw %}
 
+
+## robots.txt
+```
+ User-agent: *
+ Allow: /
+ Sitemap: https://blog.jcy1511.com/sitemap.xml
+```
+당연히 여기서 sitemap 주소를 자신의 sitemap 주소로 바꿔주면 된다.
 
 ![](/assets/img/localhost-sitemap.xml.png)
 
