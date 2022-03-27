@@ -259,6 +259,9 @@ Score : (총거리 - (원점~목적지 거리))/이동횟수^0.1
 그래서 그냥 분자를 제곱하는 대신에 분모에 루트를 씌워줬더니 정상적으로 작동했고, 조금 더 나은 결과를 냈다.   
 
 작동 영상 :  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xF5HYXc3qn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="position:relative;height:0;padding-bottom:56.25%">
+    <iframe src="https://www.youtube.com/embed/xF5HYXc3qn4"
+    style="position:absolute;width:100%;height:100%;left:0"
+    frameborder="0" allowfullscreen></iframe>
+</div>
 재밌네요 ㅇㅇ
