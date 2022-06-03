@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+_posts/2022-06-03-chromebook.md
 
 # general
 .DS_Store
@@ -11,3 +12,4 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
